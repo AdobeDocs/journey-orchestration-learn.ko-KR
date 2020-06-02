@@ -4,14 +4,15 @@ description: 테스트 프로필을 사용하여 게시 전에 경로를 테스�
 feature: Journey Orchestration
 topics: Test and publish a journey
 kt: 2778
+thumbnail: 30066.jpg
 audience: user
 doc-type: video
 activity: use
 translation-type: tm+mt
-source-git-commit: fe84402cd931d0d38464b6af94c23a6108aa56b3
+source-git-commit: 56b3abb5d3a69a516d45eb889932c6036ce54798
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 4%
+ht-degree: 6%
 
 ---
 
@@ -27,7 +28,7 @@ ht-degree: 4%
 
 >[!VIDEO](https://video.tv.adobe.com/v/30066?quality=12)
 
-## 추가 리소스
+## 추가 자료
 
 * [여정 운영 도움말 센터](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
    * [여정 테스트](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/journeytesting.html)
