@@ -4,14 +4,15 @@ description: 아래 비디오에서는 이벤트를 시작하고, 오케스트�
 feature: Journey Orchestration
 topics: Create a journey
 kt: 2789
+thumbnail: 29696.jpg
 audience: user
 doc-type: video
 activity: use
 translation-type: tm+mt
-source-git-commit: 795b30fe984b7fe715789144e8c421028d7d32ac
+source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -26,7 +27,7 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
 
-## 추가 리소스
+## 추가 자료
 
 * [여정 운영 도움말 센터](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
    * [여정 만들기](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/about-journey-building/journey.html)
