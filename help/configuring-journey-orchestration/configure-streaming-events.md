@@ -4,14 +4,15 @@ description: 이 비디오에서는 여정 오케스트레이션 이벤트에 �
 feature: Journey Orchestration
 topics: Events
 kt: 3731
+thumbnail: 29338.jpg
 audience: developer
 doc-type: video
 activity: setup
 translation-type: tm+mt
-source-git-commit: 795b30fe984b7fe715789144e8c421028d7d32ac
+source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -51,7 +52,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12)
 
-## 추가 리소스
+## 추가 자료
 
 * [여정 운영 도움말 센터](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
    * [이벤트](https://docs.adobe.com/content/help/en/journeys/using/events-journeys/about-events.html)
