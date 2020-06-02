@@ -4,14 +4,15 @@ description: 이 비디오에서는 여정 오케스트레이션을 위한 동�
 feature: Journey Orchestration
 topics: Custom Actions
 kt: 2775
+thumbnails: 29638.jpg
 audience: developer
 doc-type: video
 activity: setup
 translation-type: tm+mt
-source-git-commit: 795b30fe984b7fe715789144e8c421028d7d32ac
+source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -26,7 +27,7 @@ JSON 형식의 페이로드를 사용하여 REST API를 통해 호출할 수 있
 
 >[!VIDEO](https://video.tv.adobe.com/v/29638?quality=12)
 
-## 추가 리소스
+## 추가 자료
 
 * [여정 운영 도움말 센터](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
    * [작업](https://docs.adobe.com/content/help/en/journeys/using/action-journeys/action.html)
