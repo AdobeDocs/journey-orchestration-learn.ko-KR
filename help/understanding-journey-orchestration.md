@@ -4,11 +4,12 @@ description: 고객 여정 통합 운영의 개념, 활용 사례, 고객 여정
 feature: Journey Orchestration
 topics: Introduction
 kt: 2773
+thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
 translation-type: tm+mt
-source-git-commit: 795b30fe984b7fe715789144e8c421028d7d32ac
+source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 0%
@@ -49,7 +50,7 @@ ht-degree: 0%
 2. [경로 확인 및 게시](/help/validate-and-publish-a-journey.md)
 3. [보고 툴을 통해 여정 분석](/help/analyze-a-journey-via-reporting-tools.md)
 
-## 추가 리소스
+## 추가 자료
 
 * [여정 운영 도움말 센터](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
 * [Adobe Experience Platform 자습서](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
