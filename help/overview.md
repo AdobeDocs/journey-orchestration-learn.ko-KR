@@ -6,7 +6,7 @@ translation-type: tm+mt
 source-git-commit: d8a3de100c1b0607abf16e59dba8a5783f6097fc
 workflow-type: tm+mt
 source-wordcount: '226'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -66,7 +66,7 @@ ht-degree: 1%
 </tr>
 </table>
 
-## 추가 리소스
+## 추가 자료
 
 * [여정 운영 도움말 센터](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
 * [Adobe Experience Platform 자습서](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
