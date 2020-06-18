@@ -4,12 +4,12 @@ description: 이 자습서에서는 경로 보고로 이동하는 방법, 보고
 feature: Journey Orchestration
 topics: Introduction
 kt: 2777
-thumbnail: 29321
+thumbnail: 29321.jpg
 audience: user
 doc-type: video
 activity: use
 translation-type: tm+mt
-source-git-commit: 56b3abb5d3a69a516d45eb889932c6036ce54798
+source-git-commit: 1b651f0ee1d65f5b057e7bdc5f2f07efa7c45e4a
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 2%
@@ -29,5 +29,5 @@ ht-degree: 2%
 
 ## 추가 자료
 
-* [여정 운영 도움말 센터](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
-   * [경로 관리 보고서 정보](https://docs.adobe.com/content/help/en/journeys/using/journey-reports/about-journey-reports.html)
+* [Journey Orchestration 도움말 센터](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
+   * [Journey Orchestration 보고서 정보](https://docs.adobe.com/content/help/en/journeys/using/journey-reports/about-journey-reports.html)
