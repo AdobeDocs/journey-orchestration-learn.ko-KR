@@ -9,7 +9,7 @@ audience: user
 doc-type: video
 activity: use
 translation-type: tm+mt
-source-git-commit: df5c132a8e66a9e9d2c8e7a2cf299a6a6a3527b7
+source-git-commit: 3d8621e0bdda1aa6b9a576fca07aacebd1ad46d5
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 1%
@@ -20,7 +20,7 @@ ht-degree: 1%
 # 단계 이벤트를 [!UICONTROL Adobe Experience Platform ]
 
 [!UICONTROL Journey Orchestration] 는 고객 여정 성능 데이터를 자동으로 전송하므로 분석 목적으로 다른 데이터와 결합할 수 [!UICONTROL Adobe Experience Platform] 있습니다.
-다음 비디오에서는 자동 [!UICONTROL journey step events] 으로 만들어진 항목 [!UICONTROL data steps] 과 이러한 항목 [!UICONTROL Experience Platform ]을 탐색하는 방법을 설명합니다.
+다음 비디오에서는 자동 [!UICONTROL journey step events] 으로 만들어진 항목 [!UICONTROL data steps] 과 이러한 항목 [!UICONTROL Experience Platform] 을 탐색하는 방법을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12)
 
