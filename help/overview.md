@@ -1,11 +1,11 @@
 ---
-title: 경로 관리 자습서 - 개요
-description: 고객 여정 통합 관리를 통해 이벤트 또는 데이터 소스에 저장된 컨텍스트 데이터를 활용하여 실시간 통합 운영 사례를 구축할 수 있습니다
+title: Journey Orchestration Tutorials - 개요
+description: Journey Orchestration을 사용하면 이벤트 또는 데이터 소스에 저장된 컨텍스트 데이터를 활용하여 실시간 통합 운영 사례를 구축할 수 있습니다
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: d8a3de100c1b0607abf16e59dba8a5783f6097fc
+source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '245'
 ht-degree: 2%
 
 ---
@@ -17,8 +17,10 @@ ht-degree: 2%
 
 ## 새로운 기능
 
-* **[고객 여정 운영 관련 도움말 찾기](/help/how-to-find-help-with-journey-orchestration.md)**   <br>
-   *고객의 질문에 대한 답변을 신속하게 찾을 수 있는 곳[!UICONTROL Journey Orchestration], 지원 문의 방법, 지원 티켓 로그 위치, 피드백 제공 방법을 파악할 수 있습니다.*
+* **[Adobe Experience Platform에 경로 단계 이벤트 보고](/help/how-to-find-help-with-journey-orchestration.md)**   <br>
+   *Experience Platform에서 자동으로 생성되는 고객 여정 단계 이벤트와 데이터 단계를 살펴보십시오.*
+* **[세그먼트 자격 이벤트 사용](help/using-segment-qualification-events.md)**   <br>
+   *이 비디오에서는 세그먼트 자격 이벤트를 시작 또는 종료 지점으로 사용하는 여정을 만드는 방법에 대해 간략하게 소개합니다.*
 
 ## 직원 선택
 
@@ -26,15 +28,15 @@ ht-degree: 2%
 <tr>
   <td>
     <a href="./understanding-journey-orchestration.md">
-      <img alt="고객 여정 운영 이해" src="./assets/journey-orchestration-example.png"/>
+      <img alt="Journey Orchestration 이해" src="./assets/journey-orchestration-example.png"/>
     </a>
     <div>
       <a href="./understanding-journey-orchestration.md">
-    <strong>고객 여정 운영 이해</strong>
+    <strong>Journey Orchestration 이해</strong>
     </a>
     </div>
     <p>
-    <em>고객 여정 통합 운영의 개념, 활용 사례, 고객 여정 통합 운영의 주요 요소를 파악할 수 있습니다.</em>
+    <em>Journey Orchestration의 개념, 사용 사례 유형 및 Journey Orchestration 작동 방법의 주요 요소를 파악할 수 있습니다.</em>
     <p>
   </td>
   <td>
@@ -68,6 +70,6 @@ ht-degree: 2%
 
 ## 추가 자료
 
-* [여정 운영 도움말 센터](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
-* [Adobe Experience Platform 자습서](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Journey Orchestration 도움말 센터](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
+* [Adobe Experience Platform Tutorials](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
 
