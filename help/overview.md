@@ -3,7 +3,7 @@ title: Journey Orchestration Tutorials - 개요
 description: Journey Orchestration을 사용하면 이벤트 또는 데이터 소스에 저장된 컨텍스트 데이터를 활용하여 실시간 통합 운영 사례를 구축할 수 있습니다
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
+source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 2%
@@ -19,7 +19,7 @@ ht-degree: 2%
 
 * **[Adobe Experience Platform에 경로 단계 이벤트 보고](/help/how-to-find-help-with-journey-orchestration.md)**   <br>
    *Experience Platform에서 자동으로 생성되는 고객 여정 단계 이벤트와 데이터 단계를 살펴보십시오.*
-* **[세그먼트 자격 이벤트 사용](help/using-segment-qualification-events.md)**   <br>
+* **[세그먼트 자격 이벤트 사용](/help/using-segment-qualification-events.md)**   <br>
    *이 비디오에서는 세그먼트 자격 이벤트를 시작 또는 종료 지점으로 사용하는 여정을 만드는 방법에 대해 간략하게 소개합니다.*
 
 ## 직원 선택
