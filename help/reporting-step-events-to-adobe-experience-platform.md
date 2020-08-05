@@ -1,6 +1,6 @@
 ---
 title: 'Adobe Experience Platform에 경로 단계 이벤트 보고 '
-description: 이 자습서에서는 경로 보고로 이동하는 방법, 보고서의 날짜 범위를 사용자 지정하는 방법 및 나중에 사용할 수 있도록 보고 템플릿을 저장하는 방법에 대해 설명합니다.
+description: 다음 비디오에서는 Experience Platform에서 자동으로 만들어지는 경로 단계 이벤트와 데이터 단계를 살펴보고, 이를 탐색하는 방법을 설명합니다.
 feature: Journey Orchestration
 topics: Introduction
 kt: 5488
@@ -9,10 +9,10 @@ audience: user
 doc-type: video
 activity: use
 translation-type: tm+mt
-source-git-commit: 3d8621e0bdda1aa6b9a576fca07aacebd1ad46d5
+source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 1%
+source-wordcount: '99'
+ht-degree: 6%
 
 ---
 
@@ -27,4 +27,4 @@ ht-degree: 1%
 ## 추가 자료
 
 * [Journey Orchestration 도움말 센터](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
-* [고객 여정 단계 공유 개요](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html)
+* [경로 단계 공유 개요](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html)
