@@ -3,7 +3,7 @@ title: Journey Orchestration 자습서 - 개요
 description: Journey Orchestration을 사용하면 이벤트 또는 데이터 소스에 저장된 상황별 데이터를 활용하여 실시간 오케스트레이션 사용 사례를 빌드할 수 있습니다.
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
+source-git-commit: 7ad1bc51bc8cf195759031056d45599c96388991
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 80%
@@ -17,7 +17,7 @@ ht-degree: 80%
 
 ## 새로운 기능
 
-* **[Adobe Experience Platform에 여정 단계 이벤트 보고](/help/how-to-find-help-with-journey-orchestration.md)**
+* **[Adobe Experience Platform에 여정 단계 이벤트 보고](/help/reporting-step-events-to-adobe-experience-platform.md)**
 
    <br>
    *Experience Platform에서 자동으로 생성되는 고객 여정 단계 이벤트와 데이터 단계를 살펴보십시오.*
