@@ -8,9 +8,9 @@ tutorials-title: 자습서
 tutorials-url: https://docs.adobe.com/content/help/ko-KR/journey-orchestration-learn/tutorials/overview.html
 getting-started-title: 도움말 센터
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/journeys/using/journey-orchestration-home.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
 ht-degree: 100%
 
