@@ -6,7 +6,7 @@ translation-type: tm+mt
 source-git-commit: 7ad1bc51bc8cf195759031056d45599c96388991
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 80%
 * **[Adobe Experience Platform에 여정 단계 이벤트 보고](/help/reporting-step-events-to-adobe-experience-platform.md)**
 
    <br>
-   *Experience Platform에서 자동으로 생성되는 고객 여정 단계 이벤트와 데이터 단계를 살펴보십시오.*
+   *여정 단계 이벤트가 무엇인지와 Experience Platform에서 자동으로 만들어지는 데이터 단계 및 탐색 방법을 배웁니다.*
 * **[세그먼트 자격 이벤트 사용](/help/using-segment-qualification-events.md)**
 
    <br>
