@@ -75,5 +75,5 @@ ht-degree: 100%
 ## 추가 리소스
 
 * [Journey Orchestration 도움말 센터](https://docs.adobe.com/content/help/ko-KR/journeys/using/journey-orchestration-home.html)
-* [Adobe Experience Platform 자습서](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Adobe Experience Platform 자습서](https://docs.adobe.com/content/help/ko-KR/platform-learn/tutorials/overview.html)
 
