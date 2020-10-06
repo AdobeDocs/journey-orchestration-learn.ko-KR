@@ -19,8 +19,8 @@ ht-degree: 100%
 
 # [!UICONTROL Adobe Experience Platform ]에 단계 이벤트 보고
 
-[!UICONTROL Journey Orchestration]은(는) 여정 성능 데이터를 [!UICONTROL Adobe Experience Platform](으)로 자동 전송하므로 분석 목적으로 다른 데이터와 결합할 수 있습니다.
-다음 비디오에서는 [!UICONTROL journey step events](이)가 무엇인지와 [!UICONTROL Experience Platform]에서 자동으로 만들어지는 [!UICONTROL data steps] 및 탐색 방법을 설명합니다.
+[!UICONTROL Journey Orchestration]은(는) 여정 성능 데이터를 [!UICONTROL Adobe Experience Platform] (으)로 자동 전송하므로 분석 목적으로 다른 데이터와 결합할 수 있습니다.
+다음 비디오에서는 [!UICONTROL journey step events] (이)가 무엇인지와 [!UICONTROL Experience Platform]에서 자동으로 만들어지는 [!UICONTROL data steps] 및 탐색 방법을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12&captions=kor)
 
