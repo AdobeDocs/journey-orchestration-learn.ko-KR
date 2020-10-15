@@ -8,9 +8,9 @@ thumbnail: 29696.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 * [!UICONTROL Orchestration] 제어를 사용하여 여정의 흐름과 타이밍을 제어하는 방법
 * 작업을 통해 여정의 각 지점에 참여하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
 
 ## 추가 리소스
 
