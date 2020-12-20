@@ -8,9 +8,9 @@ thumbnail: 29321.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: eff94dd57d933976c0fd0a303696a54048e4ddc0
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 * 보고서의 날짜 범위를 사용자 지정하는 방법
 * 나중에 사용할 수 있도록 보고 템플릿을 저장하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/29321?quality=12&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/29321?quality=12)
 
 ## 추가 리소스
 
