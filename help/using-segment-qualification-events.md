@@ -8,9 +8,9 @@ thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 이 비디오에서는 세그먼트를 구성하는 위치와 여정에서 세그먼트 자격 부여 이벤트를 구성하는 방법에 대해 간략하게 소개합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12)
 
 ## 추가 리소스
 
