@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/ko-KR/journey-orchestration-l
 getting-started-title: 도움말 센터
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/journeys/using/journey-orchestration-home.html
 translation-type: tm+mt
-source-git-commit: a8d066e15a4ab664b86a1bc8975b1b3f6414bf90
+source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '97'
+ht-degree: 95%
 
 ---
 
@@ -26,7 +26,9 @@ ht-degree: 100%
 + [세그먼트 자격 이벤트 사용](/help/using-segment-qualification-events.md)
 + [데이터 소스 구성](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [작업 구성](/help/configuring-journey-orchestration/configure-actions.md)
-+ [여정 만들기](/help/create-a-journey.md)
++ 여정 구축 {#building-a-journey}
+   + [여정 만들기](/help/building-a-journey/creating-a-journey.md)
+   + [다른 여정으로 이동](/help/building-a-journey/jumping-to-another-journey.md)
 + [여정의 유효성 검사 및 게시](/help/validate-and-publish-a-journey.md)
 + [보고 도구를 통한 여정 분석](/help/analyze-a-journey-via-reporting-tools.md)
 + [Adobe Experience Platform에 여정 단계 이벤트 보고](/help/reporting-step-events-to-adobe-experience-platform.md)
