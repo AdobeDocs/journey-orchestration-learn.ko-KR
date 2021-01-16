@@ -9,7 +9,7 @@ audience: user, developer
 doc-type: video
 activity: understand
 translation-type: tm+mt
-source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
+source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 100%
@@ -47,7 +47,7 @@ ht-degree: 100%
 
 ## 여정을 만들고, 게시하고, 분석하는 방법
 
-1. [여정 만들기](/help/create-a-journey.md)
+1. [여정 만들기](/help/building-a-journey/creating-a-journey.md)
 1. [여정의 유효성 검사 및 게시](/help/validate-and-publish-a-journey.md)
 1. [보고 도구를 통해 여정 분석](/help/analyze-a-journey-via-reporting-tools.md)
 
