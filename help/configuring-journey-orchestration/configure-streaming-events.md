@@ -11,7 +11,7 @@ activity: setup
 translation-type: tm+mt
 source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '255'
 ht-degree: 36%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 36%
 
 # 스트리밍 이벤트 구성
 
-[!UICONTROL Journey Orchestration] 이러한 이벤트를 기반으로 고객 여정 내에서 최상의 다음 작업을 조정하고 오케스트레이션할 수 있습니다. 이벤트는 다음과 관련될 수 있습니다.
+[!UICONTROL Journey Orchestration] 이러한 이벤트를 기반으로 고객의 여정 내에서 최상의 다음 작업을 조정하고 오케스트레이션할 수 있습니다. 이벤트는 다음과 관련될 수 있습니다.
 
 * 개인의 직접 작업(예: 제품 구매, 매장 방문 또는 온라인 장바구니 포기) 또는
 * 개인에게 연결된 어떤 일(예: 10,000개의 충성도 포인트에 도달함)
