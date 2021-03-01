@@ -8,10 +8,10 @@ thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
-workflow-type: ht
-source-wordcount: '326'
+workflow-type: tm+mt
+source-wordcount: '328'
 ht-degree: 100%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 100%
 * 사용 가능한 사용 사례의 유형
 * [!UICONTROL Journey Orchestration] 작동 방식의 주요 요소
 
->[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12)
 
 ## 여정 구성 방법
 
