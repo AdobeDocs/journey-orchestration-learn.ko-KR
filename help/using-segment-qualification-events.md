@@ -1,18 +1,19 @@
 ---
 title: 세그먼트 자격 이벤트 사용
-description: 이 비디오에서는 세그먼트를 구성하는 위치와 여정에서 세그먼트 자격 부여 이벤트를 구성하는 방법에 대해 간략하게 소개합니다.
-feature: Journey Orchestration
+description: 세그먼트를 구성하는 방법과 여정에서 세그먼트 자격 이벤트를 구성하는 방법을 알아봅니다.
+feature: 세그먼트, 이벤트
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
+role: 비즈니스 전문가, 관리자
 translation-type: tm+mt
-source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 100%
+source-wordcount: '137'
+ht-degree: 84%
 
 ---
 
