@@ -2,11 +2,12 @@
 title: Journey Orchestration 자습서 - 개요
 description: Journey Orchestration을 사용하면 이벤트 또는 데이터 소스에 저장된 상황별 데이터를 활용하여 실시간 오케스트레이션 사용 사례를 빌드할 수 있습니다.
 products: Journey orchestration
-translation-type: ht
-source-git-commit: c48c2e522fee95651f1a7b68cf17d6242c898242
-workflow-type: ht
-source-wordcount: '203'
-ht-degree: 100%
+role: 비즈니스 전문가, 관리자
+translation-type: tm+mt
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+workflow-type: tm+mt
+source-wordcount: '206'
+ht-degree: 98%
 
 ---
 
