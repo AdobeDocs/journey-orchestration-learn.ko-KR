@@ -1,18 +1,19 @@
 ---
 title: Journey Orchestration에 대한 도움말 찾는 방법
-description: 이 비디오에서는 도움말을 쉽게 찾는 방법을 설명합니다.
-feature: Journey Orchestration
+description: 손쉽게 도움말 찾기
+feature: 개요
 topics: Help and Support
 kt: 4019
 thumbnail: 32010.jpg
 audience: developer, business user, admin
 doc-type: video
 activity: understand
+role: 비즈니스 전문가, 관리자
 translation-type: tm+mt
-source-git-commit: 56b3abb5d3a69a516d45eb889932c6036ce54798
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 100%
+source-wordcount: '55'
+ht-degree: 81%
 
 ---
 
