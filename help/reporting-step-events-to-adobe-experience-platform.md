@@ -1,18 +1,19 @@
 ---
 title: 'Adobe Experience Platform에 여정 단계 이벤트 보고 '
-description: 다음 비디오에서는 여정 단계 이벤트가 무엇인지와 Experience Platform에서 자동으로 만들어지는 데이터 단계 및 탐색 방법을 설명합니다.
-feature: Journey Orchestration
+description: 여정 단계 이벤트가 무엇이고 어떤 데이터 단계인지 그리고 이를 탐색하는 방법을 이해합니다.
+feature: 여정
 topics: Introduction
 kt: 5488
 thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
+role: 비즈니스 전문가, 관리자
 translation-type: tm+mt
-source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 100%
+source-wordcount: '95'
+ht-degree: 78%
 
 ---
 
