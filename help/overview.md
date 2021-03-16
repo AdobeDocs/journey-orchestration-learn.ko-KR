@@ -4,10 +4,10 @@ description: Journey Orchestration을 사용하면 이벤트 또는 데이터 �
 products: Journey orchestration
 role: 비즈니스 전문가, 관리자
 translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 98%
+source-wordcount: '209'
+ht-degree: 97%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 98%
 
 ## 새로운 기능
 
+* **[프로필 작업 업데이트](/help/building-a-journey/update-profile-action.md)**
 * **[다른 여정으로 이동](/help/building-a-journey/jumping-to-another-journey.md)**
-
    <br>
    *한 여정에서 다른 여정으로 개인 사용자를 푸시하는 방법을 알아봅니다.*
 
