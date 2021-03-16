@@ -11,10 +11,10 @@ getting-started-title: 도움말 센터
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/journeys/using/journey-orchestration-home.html
 level: 초급
 translation-type: tm+mt
-source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
+source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 98%
+source-wordcount: '101'
+ht-degree: 96%
 
 ---
 
@@ -30,6 +30,7 @@ ht-degree: 98%
 + 여정 빌드 {#building-a-journey}
    + [여정 만들기](/help/building-a-journey/creating-a-journey.md)
    + [다른 여정으로 이동](/help/building-a-journey/jumping-to-another-journey.md)
+   + [프로필 작업 업데이트](/help/building-a-journey/update-profile-action.md)
 + [여정의 유효성 검사 및 게시](/help/validate-and-publish-a-journey.md)
 + [보고 도구를 통한 여정 분석](/help/analyze-a-journey-via-reporting-tools.md)
 + [Adobe Experience Platform에 여정 단계 이벤트 보고](/help/reporting-step-events-to-adobe-experience-platform.md)
