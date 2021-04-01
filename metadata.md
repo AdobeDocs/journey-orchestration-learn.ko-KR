@@ -1,17 +1,17 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: journey orchestration
 solution: Journey Orchestration
 feature-set: Journey Orchestration
-type: 자습서
+type: 튜토리얼
 mini-toc-levels: 3
 git-repo: https://git.corp.adobe.com/AdobeDocs/journey-orchestration-learn.ko-KR
 index: false
 translation-type: tm+mt
-source-git-commit: 6b871a15729289fc8f8d1ec446b55147e408806a
+source-git-commit: d9ab2c502519c6bf136056d92eaf6e7e6432f1f5
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
