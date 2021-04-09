@@ -10,14 +10,14 @@ doc-type: video
 activity: use
 team: PM
 role: 비즈니스 전문가, 관리자
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
-workflow-type: tm+mt
+exl-id: 185c5c83-5444-4592-b113-732ee561f55a
+translation-type: ht
+source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
+workflow-type: ht
 source-wordcount: '83'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
-
 
 # 다른 여정으로 이동
 
@@ -32,5 +32,4 @@ Jump 작업 활동을 통해 다음을 수행할 수 있습니다.
 
 ## 추가 리소스
 
-* [여정 간 이동(제품 설명서)](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/action-activities/jump.html?lang=en#building-journeys)
-
+* [여정 간 이동(제품 설명서)](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/action-activities/jump.html?lang=ko#building-journeys)
