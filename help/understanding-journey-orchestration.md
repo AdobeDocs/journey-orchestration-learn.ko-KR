@@ -9,11 +9,11 @@ audience: user, developer
 doc-type: video
 activity: understand
 role: 비즈니스 전문가, 관리자
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '330'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 99%
 
 >[!NOTE]
 >
->이러한 구성 단계에는 기술 지식이 필요합니다. [XDM(Experience 데이터 모델)](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html) 및 [XDM 경험 이벤트 스키마를 구성하는 방법](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)에 대해 알고 있어야 합니다.
+>이러한 구성 단계에는 기술 지식이 필요합니다. [XDM(Experience 데이터 모델)](https://docs.adobe.com/content/help/ko-KR/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html) 및 [XDM 경험 이벤트 스키마를 구성하는 방법](https://docs.adobe.com/content/help/ko-KR/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)에 대해 알고 있어야 합니다.
 
 ## 여정을 만들고, 게시하고, 분석하는 방법
 
@@ -55,7 +55,7 @@ ht-degree: 99%
 ## 추가 리소스
 
 * [Journey Orchestration 도움말 센터](https://docs.adobe.com/content/help/ko-KR/journeys/using/journey-orchestration-home.html)
-* [Adobe Experience Platform 자습서](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Adobe Experience Platform 자습서](https://docs.adobe.com/content/help/ko-KR/platform-learn/tutorials/overview.html)
 * [Journey Orchestration에 대한 도움말 찾는 방법](/help/understanding-journey-orchestration.md)
-* [Adobe Experience Platform Mobile SDK - 시작](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
+* [Adobe Experience Platform Mobile SDK - 시작](https://docs.adobe.com/content/help/ko-KR/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 * [Adobe Experience Platform 위치 서비스](https://docs.adobe.com/content/help/ko-KR/places/using/home.html)
