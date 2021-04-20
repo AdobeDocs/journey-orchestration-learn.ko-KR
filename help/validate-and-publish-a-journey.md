@@ -1,14 +1,14 @@
 ---
 title: 여정 확인 및 게시
 description: '"테스트 프로필을 사용하여 여정을 게시하기 전에 테스트하는 방법을 알아보십시오. "'
-feature: 여정
+feature: Journeys
 topics: Test and publish a journey
 kt: 2778
 thumbnail: 30066.jpg
 audience: user
 doc-type: video
 activity: use
-role: 비즈니스 전문가, 관리자
+role: Business Practitioner, Administrator
 translation-type: tm+mt
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt

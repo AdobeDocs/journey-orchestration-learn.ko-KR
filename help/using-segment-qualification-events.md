@@ -1,14 +1,14 @@
 ---
 title: 세그먼트 자격 이벤트 사용
 description: 세그먼트를 구성하는 방법과 여정에서 세그먼트 자격 이벤트를 구성하는 방법을 알아봅니다.
-feature: 세그먼트, 이벤트
+feature: Segments, Events
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
-role: 비즈니스 전문가, 관리자
+role: Business Practitioner, Administrator
 translation-type: tm+mt
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Adobe Journey Orchestration에 대한 작업 구성
 description: 여정에 대한 작업을 구성하는 방법과 Journey Orchestration에서 작업을 사용하는 방법을 알아봅니다.
-feature: 작업
+feature: Actions
 topics: Custom Actions
 kt: 2775
 thumbnails: 29638.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: 관리자
+role: Administrator
 translation-type: tm+mt
 source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
 workflow-type: tm+mt

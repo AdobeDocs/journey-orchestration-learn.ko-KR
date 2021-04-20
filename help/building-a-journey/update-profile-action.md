@@ -1,10 +1,10 @@
 ---
 title: 프로필 작업 업데이트
 description: 이벤트, 데이터 소스의 정보 또는 특정 값을 사용하여 기존 Adobe Experience Platform 프로필을 업데이트하는 방법을 알아봅니다.
-feature: 작업
+feature: Actions
 kt: 7313
 thumbnail: 332112.jpg
-role: 비즈니스 전문가
+role: Business Practitioner
 activity: use
 team: PM
 exl-id: 5e45b702-2c99-49ad-ae00-65f7555acd09

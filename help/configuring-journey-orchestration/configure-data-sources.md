@@ -1,14 +1,14 @@
 ---
 title: Adobe Journey Orchestration에 대한 데이터 소스 구성
 description: '"Experience Platform 데이터 소스를 구성하고, 외부 데이터 소스를 구성하고, 여정에서 데이터를 찾고 사용하는 방법에 대해 알아보십시오."'
-feature: 데이터 소스
+feature: Data Sources
 topics: Data Sources
 kt: 2774
 thumbnail: 29406.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: 관리자
+role: Administrator
 translation-type: tm+mt
 source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
 workflow-type: tm+mt
