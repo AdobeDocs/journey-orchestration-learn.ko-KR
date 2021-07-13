@@ -1,22 +1,21 @@
 ---
-title: 'Adobe Experience Platform에 여정 단계 이벤트 보고 '
-description: 여정 단계 이벤트가 무엇이고 어떤 데이터 단계인지 그리고 이를 탐색하는 방법을 이해합니다.
-feature: Journeys
+title: 'Adobe Experience Platform에 고객 여정 단계 이벤트 보고하기 '
+description: 여정 단계 이벤트의 정의와 데이터 단계 및 탐색 방법을 이해합니다.
+feature: 여정
 topics: Introduction
 kt: 5488
 thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
-role: Business Practitioner, Administrator
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+role: User, Admin
+exl-id: 1ce7909e-173b-46f4-b20c-e6b5bfcb9d2c
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 78%
+source-wordcount: '92'
+ht-degree: 82%
 
 ---
-
 
 # [!UICONTROL Adobe Experience Platform ]에 단계 이벤트 보고
 
