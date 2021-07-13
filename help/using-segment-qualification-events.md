@@ -1,22 +1,21 @@
 ---
 title: 세그먼트 자격 이벤트 사용
-description: 세그먼트를 구성하는 방법과 여정에서 세그먼트 자격 이벤트를 구성하는 방법을 알아봅니다.
-feature: Segments, Events
+description: 세그먼트를 구성하는 위치와 여정에서 세그먼트 자격 이벤트를 구성하는 방법을 알아봅니다.
+feature: 세그먼트, 이벤트
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
-role: Business Practitioner, Administrator
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+role: User, Admin
+exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 84%
+source-wordcount: '134'
+ht-degree: 86%
 
 ---
-
 
 # 세그먼트 자격 이벤트 사용
 
