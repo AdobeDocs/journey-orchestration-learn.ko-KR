@@ -1,17 +1,16 @@
 ---
-source-git-commit: 0dc7978c9f87a83f572901541733a0547dd0045d
+source-git-commit: 033ff29e23b9895d3c0f87878cf953c99f72cf9e
 workflow-type: tm+mt
-translation-type: tm+mt
 source-wordcount: '170'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
-# MIT 라이센스
+# MIT 라이선스
 
-Copyright 2018 Adobe. 모든 권리 보유.
+© Copyright 2021 Adobe. All rights reserved.
 
-본 소프트웨어 및 관련 문서 파일(&quot;소프트웨어&quot;)의 카피를 받은 사람에게는, 다음 조건에 따라, 소프트웨어를 사용, 복사, 수정, 병합, 출판, 배포, 서브라이센스 및/또는 판매할 수 있는 권리를 비롯하여, 소프트웨어에 대한 제한 없이 거래를 할 수 있는 권한, 그리고 소프트웨어를 제공한 사람에게 허용할 수 있는 권한(&quot;소프트웨어&quot;)이 무료로 부여됩니다.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-상기의 저작권 통지 및 본 허가 통지는 소프트웨어의 모든 사본 또는 상당한 부분에 포함되어야 합니다.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-이 소프트웨어는 상업성, 특정 목적에의 적합성 및 비침해성에 대한 보증을 포괄하는 어떠한 종류의 명시적 또는 묵시적 보증도 없이 &quot;있는 그대로&quot; 제공됩니다. 작성자 또는 저작권 보유자는 계약, 불법행위 또는 다른 경우에서 또는 소프트웨어 또는 소프트웨어 사용 또는 기타 거래와 연결
+THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
