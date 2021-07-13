@@ -1,7 +1,7 @@
 ---
 title: 다른 여정으로 이동
 description: '한 여정에서 다른 여정으로 개인 사용자를 푸시하는 방법을 알아봅니다. '
-feature: Journeys
+feature: 여정
 topics: activity
 kt: 6695
 thumbnail: 330560.jpg
@@ -9,12 +9,11 @@ audience: user
 doc-type: video
 activity: use
 team: PM
-role: Business Practitioner, Administrator
+role: User, Admin
 exl-id: 185c5c83-5444-4592-b113-732ee561f55a
-translation-type: ht
-source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
-workflow-type: ht
-source-wordcount: '83'
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+workflow-type: tm+mt
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
