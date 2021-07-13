@@ -2,12 +2,11 @@
 title: Journey Orchestration 자습서 - 개요
 description: Journey Orchestration을 사용하면 이벤트 또는 데이터 소스에 저장된 상황별 데이터를 활용하여 실시간 오케스트레이션 사용 사례를 빌드할 수 있습니다.
 products: Journey orchestration
-role: Business Practitioner, Administrator
+role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-translation-type: ht
-source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
-workflow-type: ht
-source-wordcount: '209'
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+workflow-type: tm+mt
+source-wordcount: '206'
 ht-degree: 100%
 
 ---
@@ -18,7 +17,7 @@ ht-degree: 100%
 
 ## 새로운 기능
 
-* **[프로필 작업 업데이트](/help/building-a-journey/update-profile-action.md)**
+* **[프로필 업데이트 작업](/help/building-a-journey/update-profile-action.md)**
 * **[다른 여정으로 이동](/help/building-a-journey/jumping-to-another-journey.md)**
    <br>
    *한 여정에서 다른 여정으로 개인 사용자를 푸시하는 방법을 알아봅니다.*
@@ -37,7 +36,7 @@ ht-degree: 100%
     </a>
     </div>
     <p>
-    <em>Journey Orchestration의 개념, 사용 가능한 사용 사례 유형 및 Journey Orchestration 작동 방법의 주요 요소를 이해할 수 있습니다.</em>
+    <em>Journey Orchestration의 개념, 사용 사례 유형 및 Journey Orchestration 작동 방법의 주요 요소를 파악할 수 있습니다.</em>
     <p>
   </td>
   <td>
@@ -72,4 +71,4 @@ ht-degree: 100%
 ## 추가 리소스
 
 * [Journey Orchestration 도움말 센터](https://docs.adobe.com/content/help/ko-KR/journeys/using/journey-orchestration-home.html)
-* [Adobe Experience Platform 자습서](https://docs.adobe.com/content/help/ko-KR/platform-learn/tutorials/overview.html)
+* [Adobe Experience Platform 자습서](https://docs.adobe.com/content/help/ko/platform-learn/tutorials/overview.html)
