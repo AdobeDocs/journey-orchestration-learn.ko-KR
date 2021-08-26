@@ -1,7 +1,7 @@
 ---
 title: 세그먼트 자격 이벤트 사용
 description: 세그먼트를 구성하는 위치와 여정에서 세그먼트 자격 이벤트를 구성하는 방법을 알아봅니다.
-feature: 세그먼트, 이벤트
+feature: Segments, Events
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
@@ -10,16 +10,16 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 86%
+source-wordcount: '135'
+ht-degree: 61%
 
 ---
 
 # 세그먼트 자격 이벤트 사용
 
-세그먼트 자격 이벤트를 사용하면 Adobe Experience Platform 세그먼트의 프로필의 처음과 끝에서 의견을 수렴하여 개인 사용자가 여정으로 들어오거나 이동할 수 있습니다.
+세그먼트 자격 이벤트를 사용하면 여정이 Adobe Experience Platform 세그먼트의 프로필의 처음과 끝에서 의견을 수렴할 수 있습니다. 이 이벤트 유형은 개인이 여정에서 들어오거나 앞으로 이동하도록 하는 데 사용됩니다.
 
 활용 사례는 다음과 같습니다.
 

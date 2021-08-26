@@ -1,19 +1,19 @@
 ---
 title: Journey Orchestration 자습서 - 개요
-description: Journey Orchestration을 사용하면 이벤트 또는 데이터 소스에 저장된 상황별 데이터를 활용하여 실시간 오케스트레이션 사용 사례를 빌드할 수 있습니다.
+description: Journey Orchestration을 사용하면 이벤트 또는 데이터 소스에 저장된 상황별 데이터를 사용하여 실시간 오케스트레이션 사용 사례를 빌드할 수 있습니다
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 100%
+source-wordcount: '205'
+ht-degree: 62%
 
 ---
 
 # 개요
 
-[!UICONTROL Journey Orchestration]은(는) Adobe Experience Platform과 통합된 애플리케이션 서비스입니다. 이를 통해 이벤트 또는 데이터 소스에 저장된 상황별 데이터를 활용하여 실시간 오케스트레이션 사용 사례를 빌드할 수 있습니다.
+[!UICONTROL Journey Orchestration]은(는) Adobe Experience Platform과 통합된 애플리케이션 서비스입니다. 이를 통해 이벤트 또는 데이터 소스에 저장된 상황별 데이터를 사용하여 실시간 오케스트레이션 사용 사례를 빌드할 수 있습니다.
 
 ## 새로운 기능
 
@@ -49,7 +49,7 @@ ht-degree: 100%
     </a>
     </div>
     <p>
-    <em>새로운 여정을 만들고, 이벤트를 시작하고, 오케스트레이션을 사용하여 여정의 흐름과 타이밍을 제어하고, 작업을 통해 여정의 각 지점에 참여하는 방법을 배웁니다.</em>
+    <em>여정을 만들고, 이벤트를 시작하고, 오케스트레이션을 사용하여 여정의 흐름과 타이밍을 제어하고, 작업을 통해 여정의 특정 지점을 찾는 방법을 배웁니다.</em>
     <p>
   </td>
   <td>
@@ -70,5 +70,5 @@ ht-degree: 100%
 
 ## 추가 리소스
 
-* [Journey Orchestration 도움말 센터](https://docs.adobe.com/content/help/ko-KR/journeys/using/journey-orchestration-home.html)
-* [Adobe Experience Platform 자습서](https://docs.adobe.com/content/help/ko/platform-learn/tutorials/overview.html)
+* [Journey Orchestration 도움말 센터](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ko-KR)
+* [Adobe Experience Platform 자습서](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
