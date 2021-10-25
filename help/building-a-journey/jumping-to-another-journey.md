@@ -1,7 +1,7 @@
 ---
 title: 다른 여정으로 이동
-description: '한 여정에서 다른 여정으로 개인 사용자를 푸시하는 방법을 알아봅니다. '
-feature: 여정
+description: '개인 사용자를 한 여정에서 다른 여정으로 보내는 방법을 알아봅니다. '
+feature: Journeys
 topics: activity
 kt: 6695
 thumbnail: 330560.jpg
@@ -12,15 +12,15 @@ team: PM
 role: User, Admin
 exl-id: 185c5c83-5444-4592-b113-732ee561f55a
 source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
-workflow-type: tm+mt
-source-wordcount: '80'
+workflow-type: ht
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
 
 # 다른 여정으로 이동
 
-한 여정에서 다른 여정으로 개인 사용자를 푸시하는 방법을 알아봅니다.
+개인 사용자를 한 여정에서 다른 여정으로 보내는 방법을 알아봅니다.
 
 Jump 작업 활동을 통해 다음을 수행할 수 있습니다.
 
