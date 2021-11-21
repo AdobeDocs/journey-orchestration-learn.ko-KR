@@ -1,25 +1,24 @@
 ---
 product: journey orchestration
-user-guide-title: Journey Orchestration 자습서
+user-guide-title: Journey Orchestration 튜토리얼
 user-guide-description: 고객 여정을 구성, 제작, 게시 및 분석하는 방법을 살펴볼 수 있습니다.
 user-guide-url: https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Journey+Orchestration#recommended/solutions/journey-orchestration
-tutorials-title: 자습서
-tutorials-url: https://docs.adobe.com/content/help/ko-KR/journey-orchestration-learn/tutorials/overview.html
-getting-started-title: 도움말 센터
-getting-started-url: https://docs.adobe.com/content/help/ko-KR/journeys/using/journey-orchestration-home.html
+tutorials-title: Tutorials
+tutorials-url: https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/overview.html
+getting-started-title: Help Center
+getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html
 level: Beginner
-translation-type: ht
 source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
-workflow-type: ht
-source-wordcount: '101'
+workflow-type: tm+mt
+source-wordcount: '71'
 ht-degree: 100%
 
 ---
 
 
-# Journey Orchestration 자습서 {#tutorials}
+# Journey Orchestration 튜토리얼 {#tutorials}
 
 + [개요](/help/overview.md)
 + [Journey Orchestration 이해](/help/understanding-journey-orchestration.md)
@@ -30,8 +29,8 @@ ht-degree: 100%
 + 여정 빌드 {#building-a-journey}
    + [여정 만들기](/help/building-a-journey/creating-a-journey.md)
    + [다른 여정으로 이동](/help/building-a-journey/jumping-to-another-journey.md)
-   + [프로필 작업 업데이트](/help/building-a-journey/update-profile-action.md)
+   + [프로필 업데이트 작업](/help/building-a-journey/update-profile-action.md)
 + [여정의 유효성 검사 및 게시](/help/validate-and-publish-a-journey.md)
 + [보고 도구를 통한 여정 분석](/help/analyze-a-journey-via-reporting-tools.md)
-+ [Adobe Experience Platform에 여정 단계 이벤트 보고](/help/reporting-step-events-to-adobe-experience-platform.md)
++ [Adobe Experience Platform에 고객 여정 단계 이벤트 보고하기](/help/reporting-step-events-to-adobe-experience-platform.md)
 + [Journey Orchestration에 대한 도움말 찾는 방법](/help/how-to-find-help-with-journey-orchestration.md)

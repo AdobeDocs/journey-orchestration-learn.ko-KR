@@ -1,7 +1,7 @@
 ---
 title: Adobe Journey Orchestration에 대한 스트리밍 이벤트 구성
 description: '"Journey Orchestration 이벤트에 대한 XDM 스키마 및 데이터 세트를 구성하고 Journey Orchestration에서 이벤트를 정의하며 이벤트를 스트리밍하도록 소스 시스템을 구성하는 방법을 알아봅니다."'
-feature: 데이터 소스, 이벤트, 스키마
+feature: Data Sources, Events, Schemas
 topics: Events
 kt: 3731
 thumbnail: 29338.jpg
@@ -12,7 +12,7 @@ role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
 source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '251'
 ht-degree: 25%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 25%
 * 개인의 직접 작업(예: 제품 구매, 상점 방문 또는 온라인 장바구니 포기) 또는
 * 개인에게 연결된 문제가 발생한 경우(예: 충성도 점수 10,000점에 도달함)
 
-[!UICONTROL Journey Orchestration] 이벤트 [!UICONTROL XDM experience events] 는 를 통해 Adobe Experience Platform으로 전송됩니다 [!UICONTROL streaming ingestion].
+[!UICONTROL Journey Orchestration] events [!UICONTROL XDM experience events] 를 통해 Adobe Experience Platform으로 전송됩니다. [!UICONTROL streaming ingestion].
 
 >[!NOTE]
 >
@@ -34,24 +34,23 @@ ht-degree: 25%
 >* [Experience 이벤트에 대한 XDM 스키마를 구성하는 방법](https://docs.adobe.com/content/help/ko-KR/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
 >* [스트리밍 데이터 수집](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
 >
->
-비디오에 사용되는 예를 이해하려면 다음 Adobe Experience Platform 서비스 도 숙지해야 합니다.
+>비디오에 사용되는 예를 이해하려면 다음 Adobe Experience Platform 서비스 도 숙지해야 합니다.
 >
 >* [Adobe Experience Platform Mobile SDK - 시작](https://docs.adobe.com/content/help/ko-KR/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 >* [Adobe Experience Platform 위치 서비스](https://docs.adobe.com/content/help/ko-KR/places/using/home.html)
 
 
-## [!UICONTROL streaming events] 구성 방법
+## 구성 방법 [!UICONTROL streaming events]
 
 다음 비디오에서는 다음 방법을 설명합니다.
 
-* [!UICONTROL Journey Orchestration] 이벤트에 대한 XDM 스키마 및 데이터 세트 구성
-* [!UICONTROL Journey Orchestration]에서 이벤트 정의
+* 에 대한 XDM 스키마 및 데이터 세트 구성 [!UICONTROL Journey Orchestration] events
+* 에서 이벤트 정의 [!UICONTROL Journey Orchestration]
 * 이벤트를 스트리밍하도록 소스 시스템 구성
 
 >[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12)
 
 ## 추가 리소스
 
-* [Journey Orchestration 도움말 센터](https://docs.adobe.com/content/help/ko-KR/journeys/using/journey-orchestration-home.html):
+* [Journey Orchestration 도움말 센터](https://docs.adobe.com/content/help/ko/journeys/using/journey-orchestration-home.html):
    * [이벤트 정보](https://docs.adobe.com/content/help/en/journeys/using/events-journeys/about-events.html)

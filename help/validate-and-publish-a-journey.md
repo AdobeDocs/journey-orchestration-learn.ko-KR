@@ -23,13 +23,13 @@ ht-degree: 30%
 
 아래 비디오에서는 다음 방법을 설명합니다.
 
-* 여정을 활성화하고 **[!UICONTROL test mode]** 를 사용합니다
+* 활성화 및 사용 **[!UICONTROL test mode]** 여정의 유효성을 검사하려면
 * 여정 게시 및 상태 관리
 
 >[!VIDEO](https://video.tv.adobe.com/v/30066?quality=12)
 
 ## 추가 리소스
 
-* [Journey Orchestration 도움말 센터](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ko-KR):
+* [Journey Orchestration 도움말 센터](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ko):
    * [여정 테스트](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html)
    * [여정 게시](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/publishing-the-journey.html)

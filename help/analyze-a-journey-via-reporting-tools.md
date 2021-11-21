@@ -11,13 +11,13 @@ activity: use
 role: User, Admin
 exl-id: f6f13fba-d815-424f-86e5-918577609882
 source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%
 
 ---
 
-# 보고 도구를 통해 여정 분석
+# 보고 도구를 통한 여정 분석
 
 아래 비디오에서는 다음 방법을 설명합니다.
 
