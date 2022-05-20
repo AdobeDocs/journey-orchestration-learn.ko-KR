@@ -1,6 +1,6 @@
 ---
 title: 보고 도구를 통한 여정 분석
-description: '"여정에 대한 보고로 이동하는 방법, 보고서의 날짜 범위를 사용자 지정하는 방법 및 나중에 사용할 수 있도록 보고 템플릿을 저장하는 방법에 대해 알아봅니다."'
+description: 여정에 대한 보고로 이동하는 방법, 보고서의 날짜 범위를 사용자 지정하는 방법 및 나중에 사용할 수 있도록 보고 템플릿을 저장하는 방법에 대해 알아봅니다.
 feature: Reports
 topics: Introduction
 kt: 2777
@@ -10,7 +10,7 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: f6f13fba-d815-424f-86e5-918577609882
-source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
+source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%

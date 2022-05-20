@@ -1,6 +1,6 @@
 ---
 title: Journey Orchestration 이해
-description: '"Journey Orchestration의 개념, 사용 사례 유형 및 Journey Orchestration 작동 방식의 주요 요소를 파악할 수 있습니다."'
+description: Journey Orchestration의 개념, 사용 사례 유형 및 Journey Orchestration 작동 방식의 주요 요소를 파악할 수 있습니다.
 feature: Overview
 topics: Introduction
 kt: 2773
@@ -9,19 +9,19 @@ audience: user, developer
 doc-type: video
 activity: understand
 role: User, Admin
-source-git-commit: f46e7dd5cbd60a16b5ab8a58a5a548735a3708fc
+exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
+source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 100%
 
 ---
 
-
 # [!UICONTROL Journey Orchestration] 이해 
 
-## [!UICONTROL Journey Orchestration] 소개
-
 [!UICONTROL Journey Orchestration]을 통해 이벤트 또는 데이터 소스에 저장된 상황별 데이터를 활용하여 실시간 오케스트레이션 사용 사례를 구축할 수 있습니다.
+
+## [!UICONTROL Journey Orchestration] 소개
 
 [!UICONTROL Journey Orchestration]은(는) Adobe Experience Platform과 통합된 애플리케이션 서비스입니다. 지능적이고 개방적인 에코시스템을 제공하여 마케팅에서 운영, 서비스에 이르기까지 비즈니스에 필요한 모든 채널에서 확장 가능한 이벤트 기반의 참여를 통해 모든 관련 라이브 데이터를 활성화할 수 있습니다. [!UICONTROL Journey Orchestration]은 Adobe Experience Platform 및 모든 외부 게재 시스템의 모든 데이터를 사용하여 매력적인 경험을 만들고 게재할 수 있습니다.
 
@@ -58,4 +58,3 @@ ht-degree: 100%
 * [Journey Orchestration에 대한 도움말 찾는 방법](/help/understanding-journey-orchestration.md)
 * [Adobe Experience Platform Mobile SDK - 시작](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=ko)
 * [Adobe Experience Platform 위치 서비스](https://experienceleague.adobe.com/docs/places/using/home.html?lang=ko)
-

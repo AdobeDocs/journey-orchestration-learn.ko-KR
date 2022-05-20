@@ -1,6 +1,6 @@
 ---
 title: Adobe Journey Orchestration에 대한 스트리밍 이벤트 구성
-description: '"Journey Orchestration 이벤트에 대한 XDM 스키마 및 데이터 세트를 구성하고 Journey Orchestration에서 이벤트를 정의하며 이벤트를 스트리밍하도록 소스 시스템을 구성하는 방법을 알아봅니다."'
+description: Journey Orchestration 이벤트에 대한 XDM 스키마 및 데이터 세트를 구성하고 Journey Orchestration에서 이벤트를 정의하며 이벤트를 스트리밍하도록 소스 시스템을 구성하는 방법을 알아봅니다.
 feature: Data Sources, Events, Schemas
 topics: Events
 kt: 3731
@@ -10,7 +10,7 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 25%
