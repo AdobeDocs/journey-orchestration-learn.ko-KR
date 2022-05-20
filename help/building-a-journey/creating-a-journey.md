@@ -10,24 +10,16 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: ec61db2f-7a0f-4161-af03-c3f2fe122e4d
-source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
+source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '79'
+ht-degree: 59%
 
 ---
 
-# 여정 만들기
 
-아래 비디오에서는 다음 방법을 설명합니다.
+# Adobe Journey Orchestration을 통해 여정 만들기
 
-* 새로운 여정을 만들고 이벤트를 시작하는 방법
-* [!UICONTROL Orchestration] 제어를 사용하여 여정의 흐름과 타이밍을 제어하는 방법
-* 작업을 통해 여정의 각 지점에 참여하는 방법
+여정을 만들고, 이벤트를 시작하고, 오케스트레이션 컨트롤을 사용하여 여정의 흐름과 타이밍을 제어하고, 작업을 사용하여 여정의 특정 지점을 찾는 방법을 배웁니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
-
-## 추가 리소스
-
-* [Journey Orchestration 도움말 센터](https://docs.adobe.com/content/help/ko/journeys/using/journey-orchestration-home.html):
-   * [여정 만들기](https://docs.adobe.com/content/help/ko-KR/journeys/using/building-journeys/about-journey-building/journey.html)

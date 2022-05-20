@@ -10,10 +10,10 @@ doc-type: video
 activity: understand
 role: User, Admin
 exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
-source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
+source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
 workflow-type: tm+mt
-source-wordcount: '324'
-ht-degree: 100%
+source-wordcount: '323'
+ht-degree: 89%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 100%
 
 1. [스트리밍 이벤트 구성](/help/configuring-journey-orchestration/configure-streaming-events.md) - [!UICONTROL Journey Orchestration]은(는) 이벤트를 수신 대기하도록 설계되었으므로 이 구성은 필수입니다.
 1. [데이터 소스 구성](/help/configuring-journey-orchestration/configure-data-sources.md) - 여정이 이벤트 페이로드에서 전송되는 로컬 데이터만 활용하는 경우 이 구성은 필요하지 않습니다.
-1. [사용자 지정 작업 구성](/help/configuring-journey-orchestration/configure-actions.md): JSON 형식의 페이로드가 있는 [!DNL REST API]을(를) 통해 호출할 수 있는 타사 공급자의 서비스를 사용하려는 경우 필요합니다.
+1. [사용자 지정 작업 구성](/help/configuring-journey-orchestration/configure-actions.md): 을 통해 호출할 수 있는 타사 공급자의 서비스를 사용하려는 경우 필요합니다. [!DNL REST API] JSON 형식 페이로드 사용
 
 >[!NOTE]
 >
@@ -56,5 +56,5 @@ ht-degree: 100%
 * [Journey Orchestration 도움말 센터](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ko)
 * [Adobe Experience Platform 튜토리얼](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ko)
 * [Journey Orchestration에 대한 도움말 찾는 방법](/help/understanding-journey-orchestration.md)
-* [Adobe Experience Platform Mobile SDK - 시작](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=ko)
+* [Adobe Experience Platform Mobile SDK - 시작](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=en)
 * [Adobe Experience Platform 위치 서비스](https://experienceleague.adobe.com/docs/places/using/home.html?lang=ko)

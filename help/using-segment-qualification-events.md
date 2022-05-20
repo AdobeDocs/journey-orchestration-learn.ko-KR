@@ -10,10 +10,10 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
-source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
+source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 61%
+source-wordcount: '136'
+ht-degree: 48%
 
 ---
 
@@ -30,8 +30,4 @@ ht-degree: 61%
 
 >[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12)
 
-## 추가 리소스
-
-설명서:
-
-* [세그먼트 자격 이벤트](https://docs.adobe.com/content/help/ko-KR/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html)
+자세한 내용은 [세그먼트 자격 이벤트](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html?lang=en).
