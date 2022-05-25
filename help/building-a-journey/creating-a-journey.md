@@ -10,10 +10,10 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: ec61db2f-7a0f-4161-af03-c3f2fe122e4d
-source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
+source-git-commit: 2f38aa89396944fa6f77ea6b875293cf295866ff
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 59%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,3 +23,4 @@ ht-degree: 59%
 여정을 만들고, 이벤트를 시작하고, 오케스트레이션 컨트롤을 사용하여 여정의 흐름과 타이밍을 제어하고, 작업을 사용하여 여정의 특정 지점을 찾는 방법을 배웁니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
+
