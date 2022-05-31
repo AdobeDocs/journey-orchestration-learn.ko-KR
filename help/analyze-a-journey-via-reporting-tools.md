@@ -11,9 +11,9 @@ activity: use
 role: User, Admin
 exl-id: f6f13fba-d815-424f-86e5-918577609882
 source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 90%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29321?quality=12)
 
-자세한 내용은 [Journey Orchestration 보고서 기본 정보](https://experienceleague.adobe.com/docs/journeys/using/journey-reports/about-journey-reports.html?lang=ko).
+자세한 내용은 [Journey Orchestration 보고서](https://experienceleague.adobe.com/docs/journeys/using/journey-reports/about-journey-reports.html?lang=ko)를 참조하세요.
