@@ -1,6 +1,6 @@
 ---
 title: Adobe Journey Orchestration에 대한 스트리밍 이벤트 구성
-description: Journey Orchestration 이벤트에 대한 XDM 스키마 및 데이터 세트를 구성하고 Journey Orchestration에서 이벤트를 정의하며 이벤트를 스트리밍하도록 소스 시스템을 구성하는 방법을 알아봅니다.
+description: Journey Orchestration 이벤트에 대한 XDM 스키마 및 데이터 세트를 구성하고, Journey Orchestration에서 이벤트를 정의하며, 이벤트를 스트리밍하도록 소스 시스템을 구성하는 방법에 대해 알아봅니다.
 feature: Data Sources, Events, Schemas
 topics: Events
 kt: 3731
@@ -13,7 +13,7 @@ exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
 source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 13%
+ht-degree: 27%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 13%
 >
 >비디오에 사용되는 예를 이해하려면 다음 Adobe Experience Platform 서비스 도 숙지해야 합니다.
 >
->* [Adobe Experience Platform Mobile SDK](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=en)
+>* [Adobe Experience Platform Mobile SDK](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=ko)
 >* [Adobe Experience Platform 위치 서비스](https://experienceleague.adobe.com/docs/places/using/home.html?lang=en)
 
 
