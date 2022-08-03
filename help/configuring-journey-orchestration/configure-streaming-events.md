@@ -12,8 +12,8 @@ role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
 source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 27%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 27%
 >비디오에 사용되는 예를 이해하려면 다음 Adobe Experience Platform 서비스 도 숙지해야 합니다.
 >
 >* [Adobe Experience Platform Mobile SDK](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=ko)
->* [Adobe Experience Platform 위치 서비스](https://experienceleague.adobe.com/docs/places/using/home.html?lang=en)
+>* [Adobe Experience Platform 위치 서비스](https://experienceleague.adobe.com/docs/places/using/home.html?lang=ko-KR)
 
 
 ## 구성 방법 [!UICONTROL streaming events]
