@@ -1,17 +1,17 @@
 ---
-title: Journey Orchestration 튜토리얼
+title: Journey Orchestration 튜토리얼 - 개요
 description: Journey Orchestration을 통해 이벤트 또는 데이터 소스에 저장된 상황별 데이터를 활용하여 실시간 오케스트레이션 사용 사례를 구축할 수 있습니다.
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
-workflow-type: ht
-source-wordcount: '206'
-ht-degree: 100%
+source-git-commit: 88ee4113f06f310b68ead54a156372d78cb934aa
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Journey Orchestration 튜토리얼
+# Journey Orchestration 튜토리얼 - 개요
 
 [!UICONTROL Journey Orchestration]은(는) Adobe Experience Platform과 통합된 애플리케이션 서비스입니다. 이를 통해 이벤트 또는 데이터 소스에 저장된 상황별 데이터를 활용하여 실시간 오케스트레이션 사용 사례를 구축할 수 있습니다.
 
@@ -62,7 +62,7 @@ ht-degree: 100%
     </a>
     </div>
     <p>
-    <em>여정에 대한 보고로 이동하는 방법, 보고서의 날짜 범위를 사용자 지정하는 방법 및 나중에 사용할 수 있도록 보고 템플릿을 저장하는 방법을 배웁니다. </em>
+    <em>여정에 대한 보고로 이동하는 방법, 보고서의 날짜 범위를 사용자 지정하는 방법 및 나중에 사용할 수 있도록 보고 템플릿을 저장하는 방법에 대해 알아봅니다. </em>
     <p>
   </td>
 </tr>
