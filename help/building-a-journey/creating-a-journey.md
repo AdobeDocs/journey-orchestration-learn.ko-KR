@@ -10,8 +10,8 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: ec61db2f-7a0f-4161-af03-c3f2fe122e4d
-source-git-commit: 2f38aa89396944fa6f77ea6b875293cf295866ff
-workflow-type: tm+mt
+source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
+workflow-type: ht
 source-wordcount: '79'
 ht-degree: 100%
 
@@ -22,5 +22,5 @@ ht-degree: 100%
 
 새로운 여정을 만들고 이벤트로 시작하는 방법과 오케스트레이션 컨트롤을 사용하여 여정의 흐름 및 타이밍을 제어하고 작업을 사용하여 여정의 각 지점에 참여하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12&learn=on)
 
