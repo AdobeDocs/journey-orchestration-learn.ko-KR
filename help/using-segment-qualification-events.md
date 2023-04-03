@@ -10,7 +10,7 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
-source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
+source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 48%
@@ -28,6 +28,6 @@ ht-degree: 48%
 
 이 비디오에서는 세그먼트를 구성하는 위치와 여정에서 세그먼트 자격 부여 이벤트를 구성하는 방법에 대해 간략하게 소개합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12&learn=on)
 
 자세한 내용은 [세그먼트 자격 이벤트](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html?lang=en).
