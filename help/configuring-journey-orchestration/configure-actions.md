@@ -1,6 +1,6 @@
 ---
-title: Adobe Journey Orchestration에 대한 작업 구성
-description: Journey Orchestration에 대한 작업을 구성하는 방법과 여정에서 사용하는 방법을 알아봅니다.
+title: Adobe Journey Orchestration 작업 구성
+description: Journey Orchestration을 위한 작업을 구성하는 방법 및 여정에서 사용하는 방법에 대해 알아봅니다.
 feature: Actions
 topics: Custom Actions
 kt: 2775
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 # [!UICONTROL custom actions] 구성
 
-Journey Orchestration에 대한 작업을 구성하는 방법과 여정에서 사용하는 방법을 알아봅니다.
+Journey Orchestration을 위한 작업을 구성하는 방법 및 여정에서 사용하는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29638?quality=12&learn=on)
 

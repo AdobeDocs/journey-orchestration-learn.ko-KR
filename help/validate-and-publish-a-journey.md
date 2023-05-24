@@ -1,6 +1,6 @@
 ---
 title: 여정 유효성 검사 및 게시
-description: 테스트 프로필을 사용하여 게시 전에 여정을 테스트하는 방법을 알아봅니다.
+description: 테스트 프로필을 사용하여 게시하기 전에 여정을 테스트하는 방법을 알아봅니다.
 feature: Journeys
 topics: Test and publish a journey
 kt: 2778
@@ -19,9 +19,9 @@ ht-degree: 7%
 
 # 여정의 유효성 검사 및 게시
 
-테스트 프로필을 사용하여 게시 전에 여정을 테스트하는 방법을 알아봅니다.
+테스트 프로필을 사용하여 게시하기 전에 여정을 테스트하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30066?quality=12&learn=on)
 
-자세한 내용은 제품 설명서 를 참조하십시오 [여정 테스트](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html)
+에 대한 자세한 내용은 제품 설명서 를 참조하세요. [여정 테스트](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html)
 및 [여정 게시](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/publishing-the-journey.html)

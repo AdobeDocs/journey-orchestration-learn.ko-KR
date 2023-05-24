@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Platform에 고객 여정 단계 이벤트 보고하기
-description: 여정 단계 이벤트 및 데이터 단계의 정의와 탐색 방법을 이해합니다.
+description: 여정 단계 이벤트 및 데이터 단계가 무엇이며 이를 탐색하는 방법을 이해합니다.
 feature: Journeys
 topics: Introduction
 kt: 5488
@@ -19,8 +19,8 @@ ht-degree: 20%
 
 # [!UICONTROL Adobe Experience Platform ]에 단계 이벤트 보고
 
-여정 단계 이벤트 및 데이터 단계의 정의와 탐색 방법을 이해합니다.
+여정 단계 이벤트 및 데이터 단계가 무엇이며 이를 탐색하는 방법을 이해합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12&learn=on)
 
-자세한 내용은 [여정 단계 공유 개요](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html?lang=en) 추가 정보.
+다음을 참조하십시오 [여정 단계 공유 개요](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html?lang=en) 추가 정보.
