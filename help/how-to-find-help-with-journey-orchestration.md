@@ -3,14 +3,14 @@ title: Journey Orchestration에 대한 도움말 찾는 방법
 description: 관련 질문에 대한 답변을 신속하게 찾을 수 있는 곳 파악 [!UICONTROL Journey Orchestration], 지원 센터에 문의하는 방법, 지원 티켓을 로그하는 위치 및 피드백을 제공하는 방법에 대해 설명합니다.
 feature: Overview
 topics: Help and Support
-kt: 4019
+jira: KT-4019
 thumbnail: 32010.jpg
 audience: developer, business user, admin
 doc-type: video
 activity: understand
 role: User, Admin
 exl-id: 80fb9247-1e11-4eae-ab1e-b76f004714ed
-source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
+source-git-commit: 2735cd3a855e6e8a21381fb77683ed65dab6b1e5
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 17%

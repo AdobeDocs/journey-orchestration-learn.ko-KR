@@ -3,14 +3,14 @@ title: 세그먼트 자격 이벤트 사용
 description: 세그먼트를 구성하는 위치와 여정에서 세그먼트 자격 이벤트를 구성하는 방법을 알아봅니다.
 feature: Segments, Events
 topics: Events
-kt: 5485
+jira: KT-5485
 thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
 role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
-source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
+source-git-commit: 2735cd3a855e6e8a21381fb77683ed65dab6b1e5
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 48%

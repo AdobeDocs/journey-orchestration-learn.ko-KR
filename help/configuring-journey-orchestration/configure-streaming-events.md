@@ -3,14 +3,14 @@ title: Adobe Journey Orchestration을 위한 스트리밍 이벤트 구성
 description: Journey Orchestration 이벤트에 대한 XDM 스키마 및 데이터 세트를 구성하고, Journey Orchestration에서 이벤트를 정의하며, 이벤트를 스트리밍하도록 소스 시스템을 구성하는 방법에 대해 알아봅니다.
 feature: Data Sources, Events, Schemas
 topics: Events
-kt: 3731
+jira: KT-3731
 thumbnail: 29338.jpg
 audience: developer
 doc-type: video
 activity: setup
 role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
-source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
+source-git-commit: 2735cd3a855e6e8a21381fb77683ed65dab6b1e5
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 30%
@@ -38,7 +38,6 @@ ht-degree: 30%
 >
 >* [Adobe Experience Platform Mobile SDK](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=ko)
 >* [Adobe Experience Platform 위치 서비스](https://experienceleague.adobe.com/docs/places/using/home.html?lang=ko-KR)
-
 
 ## 구성하는 방법 [!UICONTROL streaming events]
 

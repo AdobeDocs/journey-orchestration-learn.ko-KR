@@ -3,14 +3,14 @@ title: Journey Orchestration 이해
 description: Journey Orchestration의 개념, 사용 사례 유형 및 Journey Orchestration 작동 방식의 주요 요소를 파악할 수 있습니다.
 feature: Overview
 topics: Introduction
-kt: 2773
+jira: KT-2773
 thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
 role: User, Admin
 exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
-source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
+source-git-commit: 2735cd3a855e6e8a21381fb77683ed65dab6b1e5
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 100%
