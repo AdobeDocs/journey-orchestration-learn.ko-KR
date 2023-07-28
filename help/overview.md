@@ -2,9 +2,10 @@
 title: Journey Orchestration 튜토리얼 - 개요
 description: Journey Orchestration을 통해 이벤트 또는 데이터 소스에 저장된 상황별 데이터를 활용하여 실시간 오케스트레이션 사용 사례를 구축할 수 있습니다.
 products: Journey orchestration
+feature: Overview
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: 73eee54dae0f6a765e0dcd6bcab35cf67f891294
+source-git-commit: b32b245c9738b860d8f6417e7e37d079d75b07f9
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 98%
@@ -21,7 +22,7 @@ ht-degree: 98%
 
 * **[프로필 업데이트 작업](/help/building-a-journey/update-profile-action.md)**
 * **[다른 여정으로 이동](/help/building-a-journey/jumping-to-another-journey.md)**
-   *개인 사용자를 한 여정에서 다른 여정으로 보내는 방법을 알아봅니다.*
+  *개인 사용자를 한 여정에서 다른 여정으로 보내는 방법을 알아봅니다.*
 
 </div>
 
