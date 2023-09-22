@@ -10,9 +10,9 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: dd116572-a9f1-4608-b04d-e02c17df9587
-source-git-commit: 2735cd3a855e6e8a21381fb77683ed65dab6b1e5
+source-git-commit: 9db2765ee5e9520280711a6b1fe3c618963f6f87
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '63'
 ht-degree: 1%
 
 ---
@@ -21,6 +21,6 @@ ht-degree: 1%
 
 Journey Orchestration을 위한 작업을 구성하는 방법 및 여정에서 사용하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/29638?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29638?learn=on){transcript=true}
 
 자세한 내용은 [작업](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action.html?lang=en) 제품 설명서의 섹션
