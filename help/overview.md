@@ -5,9 +5,9 @@ products: Journey orchestration
 feature: Overview
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: b32b245c9738b860d8f6417e7e37d079d75b07f9
+source-git-commit: fd7c346c9159ec2646a0887781574a32bba08a7a
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '174'
 ht-degree: 98%
 
 ---
@@ -15,16 +15,6 @@ ht-degree: 98%
 # Journey Orchestration 자습서
 
 [!UICONTROL Journey Orchestration]은(는) Adobe Experience Platform과 통합된 애플리케이션 서비스입니다. 이를 통해 이벤트 또는 데이터 소스에 저장된 상황별 데이터를 활용하여 실시간 오케스트레이션 사용 사례를 구축할 수 있습니다.
-
-<div id="whats-new-section">
-
-## 새로운 기능
-
-* **[프로필 업데이트 작업](/help/building-a-journey/update-profile-action.md)**
-* **[다른 여정으로 이동](/help/building-a-journey/jumping-to-another-journey.md)**
-  *개인 사용자를 한 여정에서 다른 여정으로 보내는 방법을 알아봅니다.*
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -75,7 +65,7 @@ ht-degree: 98%
     </a>
     </div>
     <p>
-    <em>여정에 대한 보고로 이동하는 방법, 보고서의 날짜 범위를 사용자 지정하는 방법 및 나중에 사용할 수 있도록 보고 템플릿을 저장하는 방법에 대해 알아봅니다. </em>
+    <em>여정에 대한 보고로 이동하는 방법, 보고서의 날짜 범위를 사용자 지정하는 방법 및 나중에 사용할 수 있도록 보고 템플릿을 저장하는 방법을 배웁니다. </em>
     <p>
   </td>
 </tr>
