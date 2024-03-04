@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/journey-orchestration-lear
 getting-started-title: Help Center
 getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html
 auto-video-transcripts: true
-source-git-commit: 12630c19ad7c276935d5a5043ffb1310106d5019
-workflow-type: ht
-source-wordcount: '71'
+source-git-commit: 5781e279d59d181619345f2873302479b6c28a84
+workflow-type: tm+mt
+source-wordcount: '73'
 ht-degree: 100%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 # Journey Orchestration 튜토리얼 {#tutorials}
 
-+ [개요](/help/overview.md)
++ [Journey Orchestration 튜토리얼](/help/overview.md)
 + [Journey Orchestration 이해](/help/understanding-journey-orchestration.md)
 + [스트리밍 이벤트 구성](/help/configuring-journey-orchestration/configure-streaming-events.md)
 + [세그먼트 자격 이벤트 사용](/help/using-segment-qualification-events.md)
