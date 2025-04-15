@@ -1,11 +1,10 @@
 ---
-source-git-commit: 33b77dc26229120fce22909b7085b235e2ff59cc
+source-git-commit: 5f7dec705f73509e0dd4c8eec2c34398ed1698b4
 workflow-type: tm+mt
-translation-type: tm+mt
-source-wordcount: '10'
+source-wordcount: '14'
 ht-degree: 0%
 
 ---
 # journey-orchestration-learn.en
 
-Journey Orchestration 비디오 및 자습서를 위한 기술 마케팅 보고서
+이 저장소가 보관되었습니다. 콘텐츠가 만료되었습니다. 여정-orchestration.en 제품 문서를 참조하십시오.
